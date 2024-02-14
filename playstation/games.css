@@ -1,0 +1,67 @@
+.links{
+    font-size: 20px;
+    display: flex;
+    
+}
+
+.links{
+   display: inline-block;
+}
+
+a{
+color: blue;
+}
+
+a:hover{
+    color: red;
+}
+.icons{
+    display: inline;
+    margin-left: 1000px;
+   
+}
+h1{
+   
+    font-size: 30px;
+    border: 1px solid black;
+    background-color: black;
+    color: antiquewhite;
+    padding-left: 1200px;
+
+}
+
+h2{
+    margin-left: 410px;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+section{
+    display: flex;
+}
+img{
+    height: 600px;
+}
+span{
+    font-size: 40px;
+    color: aliceblue;
+}
+body{
+  background-color: midnightblue;
+}
+p{
+    margin-left: 250px;
+}
+.sect{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.ghost{
+    display: flex;
+}
+
+.last{
+    display: flex;
+    flex-direction: row-reverse;
+}
